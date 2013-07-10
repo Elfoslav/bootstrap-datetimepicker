@@ -1,0 +1,4 @@
+
+[submodule "lib/bootstrap-datetimepicker"]
+	path = lib/bootstrap-datetimepicker
+	url = https://github.com/tarruda/bootstrap-datetimepicker.git
