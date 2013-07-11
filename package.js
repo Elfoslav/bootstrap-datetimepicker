@@ -3,8 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-	api.add_files('lib/bootstrap-datetimepicker/src/js/bootstrap-datetimepicker.js', 'client');
-	api.add_files('lib/bootstrap-datetimepicker/src/less/bootstrap-datetimepicker.less', 'client');
+	api.add_files('lib/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js', 'client');
+	api.add_files('lib/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css', 'client');
 
 	api.use('less', 'client');
 });
