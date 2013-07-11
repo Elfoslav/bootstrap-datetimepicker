@@ -3,7 +3,7 @@
 	"description": "Bootstrap datetimepicker for Meteor",
 	"homepage": "https://github.com/Elfoslav/bootstrap-datetimepicker",
 	"author": "Tomas Hromnik (http://hromnik.com)",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"git": "https://github.com/Elfoslav/bootstrap-datetimepicker.git",
 	"packages": {}
 }
