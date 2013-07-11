@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-datetimepicker": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "bootstrap-datetimepicker": {
+        "path": "."
+      }
+    }
+  }
+}
